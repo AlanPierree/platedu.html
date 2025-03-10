@@ -1,0 +1,24 @@
+body {
+    font-family: "Montserrat", sans-serif;
+  }
+
+header {
+    background-color: #918888;
+    text-align: center;
+}
+
+.cabeca {
+    padding: 5em 32em;
+}
+
+#p-title {
+    font-size: 60px;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#p-title2 {
+    font-size: 40px;
+    color: #0084ff;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
